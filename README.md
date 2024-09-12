@@ -40,7 +40,7 @@ I am a Quality Assurance and Web Developer <img src="https://media.giphy.com/med
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/icons/cypressio/cypress-original.svg" title="Cypress" alt="Cypress" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="40" height="40"/>
 </div>
 
 ---
