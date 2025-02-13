@@ -19,8 +19,8 @@
   ---
 
 ### :woman_technologist: About Me :
-I am a Quality Assurance and Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Quality Assurance Lead to ensure that all products goes through top notch quality.
+I am a Full stack developer with experience in Quality assurance Quality Assurance <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: Currently, I’m doind a full stack development internship at felix It systems.
 
 - :seedling: Exploring Technical Content Writing.
 
