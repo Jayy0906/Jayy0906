@@ -19,8 +19,8 @@
   ---
 
 ### :woman_technologist: About Me :
-I am a Full stack developer with experience in Quality Assurance <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: Currently, I’m doind a full stack development internship at felix It systems.
+I am a QA & Software Developer with experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope:
 
 - :seedling: Exploring Technical Content Writing.
 
